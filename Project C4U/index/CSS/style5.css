@@ -20,3 +20,6 @@
 		#bgc {
 			background-color: orange;
 		}
+		#link:hover {
+			color: whitesmoke;
+		}

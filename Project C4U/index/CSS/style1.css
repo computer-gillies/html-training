@@ -10,7 +10,7 @@
 		}
 		p{
 			font-family: cursive;
-			font-size: 25px;
+			font-size: 20px;
 			font-style: italic;
 			text-transform: capitalize;
 
@@ -29,4 +29,7 @@
 		}
 		#bgc {
 			background-color: orange;
+		}
+		#link:hover {
+			color: whitesmoke;
 		}
